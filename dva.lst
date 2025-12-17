@@ -1,9 +1,9 @@
 nftset=/.continue.dev/4#inet#fw4#vpn_domains
 nftset=/.voideditor.com/4#inet#fw4#vpn_domains
 nftset=/.imgto3d.ai/4#inet#fw4#vpn_domains
-nftset=/.trae.ai/4#inet#fw4#vpn_domains
 nftset=/.qoder.com/4#inet#fw4#vpn_domains
 nftset=/.minimax.io/4#inet#fw4#vpn_domains
 nftset=/.hailuo.ai/4#inet#fw4#vpn_domains
 nftset=/.qoder.sh/4#inet#fw4#vpn_domains
 nftset=/qoder-ide.oss-accelerate.aliyuncs.com/4#inet#fw4#vpn_domains
+
