@@ -25,6 +25,8 @@ nftset=/*.crashlogs.whatsapp.net/4#inet#fw4#vpn_domains
 nftset=/*.chat.cdn.whatsapp.net/4#inet#fw4#vpn_domains
 nftset=/*.chat-fallback.cdn.whatsapp.net/4#inet#fw4#vpn_domains
 nftset=/*.dit.whatsapp.net/4#inet#fw4#vpn_domains
+nftset=/*.applecheats.cc/4#inet#fw4#vpn_domains
+
 
 
 
